@@ -1,6 +1,6 @@
-# cordova-db
+# Cordova-Vue Starter
 
-> A Vue.js project
+> A Vue-Cordova Boilerplate
 
 ## Build Setup
 
